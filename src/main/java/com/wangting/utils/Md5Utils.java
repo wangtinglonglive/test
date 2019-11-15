@@ -7,6 +7,8 @@ import org.apache.commons.codec.digest.DigestUtils;
  */
 public class Md5Utils {
 	/**
+	 * 
+	 * 
 	 * 加盐
 	 */
 	private static String  saltString = "mmcro";
